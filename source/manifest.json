@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Sample WebExtension",
-  "version": "0.0.0",
+  "name": "Better ebayKleinanzeigen Search",
+  "version": "0.0.1",
 
   "icons": {
     "16": "assets/icons/favicon-16.png",
@@ -10,7 +10,7 @@
     "128": "assets/icons/favicon-128.png"
   },
   "description": "Sample description",
-  "homepage_url": "https://github.com/abhijithvijayan/web-extension-starter",
+  "homepage_url": "https://github.com/MySurmise/betterEbayKleinanzeigenSearch",
   "short_name": "Sample Name",
 
   "permissions": [
